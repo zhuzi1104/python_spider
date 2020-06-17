@@ -1,0 +1,4 @@
+通过添加headers绕开网站的反爬；
+headers除了ua必须添加cookies（先登录账户，在查找cookie）。
+
+否则获取到的response会是一个美团验证页面。
